@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Marshall Moutenot]]></title>
+  <link href="http://pewpewlasers.com/atom.xml" rel="self"/>
+  <link href="http://pewpewlasers.com/"/>
+  <updated>2012-12-25T01:19:57-05:00</updated>
+  <id>http://pewpewlasers.com/</id>
+  <author>
+    <name><![CDATA[Marshall Moutenot]]></name>
+    <email><![CDATA[mmoutenot@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Opportunity Cost]]></title>
+    <link href="http://pewpewlasers.com/blog/2012/12/25/opportunity-cost/"/>
+    <updated>2012-12-25T01:08:00-05:00</updated>
+    <id>http://pewpewlasers.com/blog/2012/12/25/opportunity-cost</id>
+    <content type="html"><![CDATA[<p>My degree, like most, comes with a litany of prescribed courses. I left all of
+my required humanity, art and social science courses (unaffectionately called
+HASS credits) for my senior year because, heck, I thought that sounded fun. I
+would get all of my hard maths and computer science classes done, allowing me to
+split my energy in the final year. I could spend half of my energy going to
+school and the other half applying the knowledge I had hopefully gained from the
+previous three years to side projects and part-time work.</p>
+
+<p>So, in my second-to-last semester, one of the classes I chose was Introduction
+To Economics. Why not? I was confident in my ability to solve single variable
+equations, and I enjoyed a basic econmoics course I took in highschool. I
+actually started to look forward to it.</p>
+
+<p>Jump to the first day. I’m sitting down in class surrounded by a thousand
+freshmen either playing Gangam-style Tetris or furiously scribbling the
+lecturer’s words as if they were scripture. We started with the usual
+formalities. Office hours, recitation (“Definitely go! These will be helpful!”).</p>
+
+<p>My mind wandered to one of my side projects, <a href="http://app.snppi.com">Snappi</a>. I
+was dying to reimplement the way in which I connected to different APIs. When I
+zoned back in, the professor was talking about “Opportunity Cost”.</p>
+
+<blockquote><p>op.por.tu.ni.ty cost</p>
+
+<p>the loss of potential gain from other alternatives when on alternative is chosen</p></blockquote>
+
+<p>I immediately stood up and marched towards the door. I never attended lecture or
+recitation again.</p>
+]]></content>
+  </entry>
+  
+</feed>
