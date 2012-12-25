@@ -6,9 +6,13 @@ comments: false
 sharing: false
 footer: false
 ---
+
+![Marshall Moutenot](marshallmoutenot.jpg)
+
 Howdy. I am a senior studying computer science and engineering at Tufts
-University. In the past I have worked for Mozilla, Microsoft and Emma Inc
-specializing in security.
+University. In the past I have worked for [Mozilla](http://mozilla.org),
+[Microsoft](http://bing.com) and [Emma Inc](http://myemma.com) specializing in
+security.
 
 Recently, I have emerged from the dark, secretive depths of security to create
 user-facing products. This switch prompted a number of side projects, most
