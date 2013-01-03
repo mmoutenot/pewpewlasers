@@ -145,6 +145,10 @@ header#sidebar h2#subtitle {
   margin-bottom: 25px;
 }
 
+iframe {
+  max-width: 500px;
+}
+
 // Large screen
 @media only screen and (min-width: 1300px) {
   #sidebar {

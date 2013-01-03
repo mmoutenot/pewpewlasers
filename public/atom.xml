@@ -4,7 +4,7 @@
   <title><![CDATA[Marshall Moutenot]]></title>
   <link href="http://pewpewlasers.com/atom.xml" rel="self"/>
   <link href="http://pewpewlasers.com/"/>
-  <updated>2012-12-28T15:07:17-06:00</updated>
+  <updated>2013-01-03T12:06:34-06:00</updated>
   <id>http://pewpewlasers.com/</id>
   <author>
     <name><![CDATA[Marshall Moutenot]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bleep Bloop - Gur]]></title>
+    <link href="http://pewpewlasers.com/blog/2013/01/03/bleep-bloop-gur/"/>
+    <updated>2013-01-03T11:47:00-06:00</updated>
+    <id>http://pewpewlasers.com/blog/2013/01/03/bleep-bloop-gur</id>
+    <content type="html"><![CDATA[<p>For Christmas, my friend Jamie gave me an gift that nearly made my head explode
+- his Maschine controller. I&#8217;ve been totally infatuated with it for the last few
+  days. Here is a track I made last night, inspired by a
+  bangin&#8217; beat Jamie made the other day.</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F73497454&amp;"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Opportunity Cost]]></title>
