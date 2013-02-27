@@ -16,7 +16,7 @@ previous three years to side projects and part-time work.
 
 So, in my second-to-last semester, one of the classes I chose was Introduction
 To Economics. Why not? I was confident in my ability to solve single variable
-equations, and I enjoyed a basic economics course I took in highschool. I
+equations, and I enjoyed a basic econmoics course I took in highschool. I
 actually started to look forward to it.
 
 Jump to the first day. I’m sitting down in class surrounded by a thousand

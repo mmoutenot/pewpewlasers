@@ -4,7 +4,7 @@
   <title><![CDATA[Marshall Moutenot]]></title>
   <link href="http://pewpewlasers.com/atom.xml" rel="self"/>
   <link href="http://pewpewlasers.com/"/>
-  <updated>2013-01-03T12:06:34-06:00</updated>
+  <updated>2013-02-26T21:42:07-05:00</updated>
   <id>http://pewpewlasers.com/</id>
   <author>
     <name><![CDATA[Marshall Moutenot]]></name>
@@ -14,9 +14,25 @@
 
   
   <entry>
+    <title type="html"><![CDATA[BlueCotton FTW]]></title>
+    <link href="http://pewpewlasers.com/blog/2013/02/26/bluecotton-ftw/"/>
+    <updated>2013-02-26T21:22:00-05:00</updated>
+    <id>http://pewpewlasers.com/blog/2013/02/26/bluecotton-ftw</id>
+    <content type="html"><![CDATA[<p>This past weekend was <a href="http://www.tuftshackathon.com">Tuft’s second annual Hackathon</a>, a 24-hour event where students and mentors code and design projects. The event was the product of months of planning, and the last week was a sprint of emails, catering orders, and most importantly t-shirts.</p>
+
+<p>We decided to order our t-shirts from the same company we did last year, <a href="http://bluecotton.com">Blue Cotton</a>. Everything was going swimmingly until after a failed delivery attempt, UPS decided to reroute the shirts to Nashville, TN. As we watched our package move farther and farther away, UPS was of little help.</p>
+
+<p>The day before the event, with no time to spare, we reached out to our customer representative at Blue Cotton, Danyel. She had been aware of our desperate situation and decided to help us out. After a 2PM phone call the day before the event, Blue Cotton reprinted all of our shirts and overnight shipped them from Kentucky to Boston. By 9:30AM the next day - the day of the event - they were at our front door and everyone looked fantastic.</p>
+
+<p><img src="http://pewpewlasers.com/images/hackathon_shirts.png" alt="Tufts Hackathon Shirts" />
+Photo credit: John Brennan</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Bleep Bloop - Gur]]></title>
     <link href="http://pewpewlasers.com/blog/2013/01/03/bleep-bloop-gur/"/>
-    <updated>2013-01-03T11:47:00-06:00</updated>
+    <updated>2013-01-03T11:47:00-05:00</updated>
     <id>http://pewpewlasers.com/blog/2013/01/03/bleep-bloop-gur</id>
     <content type="html"><![CDATA[<p>For Christmas, my friend Jamie gave me an gift that nearly made my head explode
 - his Maschine controller. I&#8217;ve been totally infatuated with it for the last few
@@ -31,7 +47,7 @@
   <entry>
     <title type="html"><![CDATA[Opportunity Cost]]></title>
     <link href="http://pewpewlasers.com/blog/2012/12/25/opportunity-cost/"/>
-    <updated>2012-12-25T01:08:00-06:00</updated>
+    <updated>2012-12-25T01:08:00-05:00</updated>
     <id>http://pewpewlasers.com/blog/2012/12/25/opportunity-cost</id>
     <content type="html"><![CDATA[<p>My degree, like most, comes with a litany of prescribed courses. I left all of
 my required humanity, art and social science courses (unaffectionately called
@@ -43,7 +59,7 @@ previous three years to side projects and part-time work.</p>
 
 <p>So, in my second-to-last semester, one of the classes I chose was Introduction
 To Economics. Why not? I was confident in my ability to solve single variable
-equations, and I enjoyed a basic economics course I took in highschool. I
+equations, and I enjoyed a basic econmoics course I took in highschool. I
 actually started to look forward to it.</p>
 
 <p>Jump to the first day. I’m sitting down in class surrounded by a thousand
