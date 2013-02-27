@@ -297,6 +297,9 @@ article.post {
   padding-bottom: 40px;
   border-top: 1px solid #E2E2E2;
   min-height: 130px;
+  img {
+    width: 100%;
+  }
 }
 
 section.comments {
