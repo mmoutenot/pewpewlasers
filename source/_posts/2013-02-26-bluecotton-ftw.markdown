@@ -13,4 +13,4 @@ We decided to order our t-shirts from the same company we did last year, [Blue C
 The day before the event, with no time to spare, we reached out to our customer representative at Blue Cotton, Danyel. She had been aware of our desperate situation and decided to help us out. After a 2PM phone call the day before the event, Blue Cotton reprinted all of our shirts and overnight shipped them from Kentucky to Boston. By 9:30AM the next day - the day of the event - they were at our front door and everyone looked fantastic.
 
 ![Tufts Hackathon Shirts](/images/hackathon_shirts.png)
-Photo credit: John Brennan
+Photo credit: [John Brennan](http://twitter.com/brennanjp)
